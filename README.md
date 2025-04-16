@@ -12,7 +12,7 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Confira o Cardapio digital aqui: https://bella-roma-4x3f6s7.gamma.site/
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
