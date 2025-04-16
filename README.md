@@ -5,7 +5,9 @@ Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
 Gemini: Sugestão de pratos, criação de texto explicativo e sugestão de preços.
+
 Leonardo.AI: Iamagem da capa, imagem dos pratos e imagem final.
+
 Gamma.AI: formatação e publicação em formato de cardápio virtual.
 
 ## 🧐 Processo de Criação
